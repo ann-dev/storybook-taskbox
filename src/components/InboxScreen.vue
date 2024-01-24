@@ -1,5 +1,4 @@
 <template>
-  <h1>Test title</h1>
   <PureInboxScreen :error="isError" />
 </template>
 
