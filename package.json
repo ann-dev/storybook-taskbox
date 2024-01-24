@@ -25,7 +25,7 @@
     "build-storybook": "storybook build",
     "init-msw": "msw init public/",
     "test-storybook": "test-storybook",
-    "chromatic": "npx chromatic --project-token=chpt_a906a08c9187537"
+    "chromatic": "npx chromatic --exit-zero-on-changes"
   },
   "dependencies": {
     "pinia": "^2.1.7",
